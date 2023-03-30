@@ -1,0 +1,516 @@
+body {
+    margin: 0%;
+}
+h1 {
+  margin: 0%;
+}
+h2 {
+  margin: 0%;
+}
+h3 {
+  margin: 0%;
+}
+h4 {
+  margin: 0%;
+}
+h5 {
+  margin: 0%;
+}
+h6 {
+  margin: 0%;
+}
+section {
+  display: Auto;
+}
+.Frame-221 {
+  width: 1440;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px;
+  box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.12);
+  background-color: #fff;
+}
+.Frame-224 {
+  width: -webkit-fill-available;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2.5px;
+  padding: 5px;
+}
+.Icon-buttons {
+    width: 28px;
+    height: 28px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 8px;
+    border-radius: 69px;
+    border: solid 1px #3b82f6;
+    background-color: #fff;
+  }
+.Icon {
+    width: 10px;
+    height: 7px;
+    background-color: #3b82f6;
+  }
+.Frame-242 {
+    width: 131.5px;
+    height: 49px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 10px;
+  }
+  .rapidnewlogo-1 {
+    height: 49px;
+    width: inherit;
+    flex-grow: 0%;
+  }
+  .Frame-243 {
+    width: 48px;
+    height: 48px;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 5px;
+    padding: 10px;
+  }
+  .Frame-218 {
+    width: 238.5px;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+  }
+  .FieldsInputInitialIcon-rightRoundedNoNo {
+    width: 218.5px;
+    height: 28px;
+    flex-grow: inherit;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 16px;
+    border-radius: 50px;
+    background-color: #eff6ff;
+    border: 0px;
+  }
+  .AtomText_1 {
+    width: 25.5px;
+    height: 12px;
+    flex-grow: 0;
+    font-family: Archivo;
+    font-size: 8px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #64748b;
+  }
+  .Avatar-and-group-of-icons {
+    width: auto;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+}
+  .Frame-224 {
+    width: 90px;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    gap: 2.5px;
+    padding: 2.5px;
+  }
+  .Hello-Johnny {
+    width: max-content;
+    height: fit-content;
+    flex-grow: 0;
+    font-family: Archivo;
+    font-size: 14px;
+    font-weight: 100;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333;
+  }
+.Icon-group {
+  height: -webkit-fill-available;
+  width: -webkit-fill-available;
+  align-self: stretch;
+  flex-grow: inherit;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding: 5px;
+  }
+  .Picture {
+    width: auto;
+    height: auto;
+    margin: 0.8px 0 0.8px 10px;
+  }
+  .Profile {
+    height: auto;
+  }
+  .Content-index {
+    display:flex;
+  }
+  .Down {
+    display: block;
+  }
+  .DashBoard {
+    width: -moz-available;
+    height:max-content;
+    display: -moz-box;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 10px;
+    margin: 0;
+    padding: 20px;
+  }
+  .buttoms {
+    width: fit-content;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    border: none;
+    
+  }
+  button {
+    height: auto;
+    width: -webkit-fill-available;
+    flex-grow: 1;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    object-fit: contain;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.12);
+    background-color: #fff;
+  }
+  .nav {
+    height: 556px;
+    align-self: stretch;
+    flex-grow:inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 6px;
+    padding: 0 10px;
+    margin: 0%;
+  }
+  .Side-Menu---Open-Light {
+    width: 283px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 5px;
+    margin: 0;
+    padding: 0;
+    box-shadow: 4px 0 8px 0 rgba(17, 17, 17, 0.12);
+    background-color: #fff;
+  }
+.Content {
+  height: auto;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 5px;
+  padding: 10px 10px;
+}
+.Components {
+  height: auto;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0;
+  gap: 5px;
+}
+.Child {
+  height: auto;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  gap: 4px;
+  padding: 0;
+}
+  .main-list {
+    height: auto;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    gap: 4px;
+    padding: 0;
+  }
+  .main button{
+    height: auto;
+    width: -moz-available;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #fff;
+    border: none;
+  }
+  /*.main button select {
+      height: 24px;
+      width: -moz-available;
+      align-self: stretch;
+      flex-grow: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 4px;
+      padding: 5px 10px;
+      border-radius: 5px;
+      background-color: #ccecff;
+  }*/
+  .menu-button {
+    height: Auto;
+    width: -webkit-fill-available;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 4px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  .balance {
+    display: flex;
+  }
+  .titulos-board {
+    padding: 10px;
+  }
+  .big-button {
+    height: 150px;
+    width: 360px;
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.12);
+    background-color: #fff;
+    padding: 10px;  
+  }
+  .big-button2 {
+    height: 150px;
+    width: 360px;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(17, 17, 17, 0.12);
+    background-color: #fff;
+    padding: 5px;
+  }
+.title-bank {
+    height: 14px;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+
+}
+.lines-bank {
+  width: -webkit-fill-available;
+  display: grid;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+  .Icon-menu{
+    margin: 0px 10px;
+  }
+  .submenu-button {
+    margin-left: 20px;
+    gap: 5px;
+  }
+  .Content-1 {
+    display: flex;
+  }
+  .Accesos-Rapidos{
+    display: block;
+  }
+  .Link-and-text {
+    height: fit-content;
+    flex-grow: 1;
+    display: grid;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    gap: 30px;
+    padding: 0;
+  }
+  .Icon-and-text {
+    width: fit-content;
+    height: fit-content;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 2px;
+    padding: 10px;
+  }
+  .Base-and-text {
+    height: auto;
+    width: fit-content;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+  }
+  .Base-and-text2{
+    height: auto;
+    width: fit-content;
+    align-self: stretch;
+    flex-grow: 0;
+    display: block;
+    align-items: flex-end;
+    padding: 10px;
+  }
+  .Frame-220 {
+    height: 76px;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    padding: 0;
+  }
+  .internal {
+    height: auto;
+    align-self: stretch;
+    flex-grow: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    padding: 0;
+    gap: 5px;
+    margin-left: 10px;
+  }
+.titulos-board{
+  margin: 10px;
+}
+.Line-3-Stroke {
+  height: 4px;
+  width:fit-content ;
+  align-self: stretch;
+  flex-grow: 0;
+  background-color: #fe7a0b;
+}
+.Frame-220 {
+  height: auto;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  padding: 0;
+}
+table {
+  height: 100%;
+  width: auto;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content:space-between ;
+  align-items: stretch;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 0.5px 0 rgba(9, 30, 66, 0.31), 0 1.5px 4px 0 rgba(9, 30, 66, 0.16);
+  background-color: #fefefe;
+}
+.Title {
+  height: 75px;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content:last baseline;
+  align-items: center;
+  padding: 10px;
+}
+.paquete-fecha {
+  display: block;
+}
+.Horizontal-group {
+  padding: 10px;
+  
+}
+td { 
+  text-align: center; 
+}
